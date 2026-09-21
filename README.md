@@ -1,3 +1,7 @@
+
+dataset link: https://www.kaggle.com/datasets/mobeenfatimah/cityflow-smart-urban-mobility-and-traffic-iot
+
+
 # 🚦 CityFlow Smart Urban Mobility & Traffic Analytics
 
 > **End-to-end Python data analytics project** — IoT traffic data → EDA → ML prediction → interactive dashboard → automated PDF report.
